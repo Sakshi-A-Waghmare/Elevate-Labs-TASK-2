@@ -1,0 +1,16 @@
+Subject: Urgent: Your Netflix Subscription Has Been Suspended 
+ From: billing@netflix-support-secure.com 
+ To: user@example.com 
+ Email Body: 
+ Dear Customer, 
+ We were unable to process your latest payment for your Netflix subscription. As a result, your 
+ account has been temporarily suspended. 
+ To avoid permanent cancellation, please verify your billing information within the next 24 
+ hours by clicking the link below: 
+ Verify Your Account: 
+ http://netflix-secure-billing-update.com 
+ If you do not update your payment information within 24 hours, your account will be 
+ permanently deactivated. 
+ Thank you for choosing Netflix. 
+ Sincerely, 
+ Netflix Billing Team
